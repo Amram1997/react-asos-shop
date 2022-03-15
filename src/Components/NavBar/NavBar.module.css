@@ -1,0 +1,38 @@
+.nav_menu {
+  width: 100%;
+  height: 50px;
+  border-bottom: 5px solid black;
+}
+.nav_ul {
+  display: flex;
+  list-style: none;
+  justify-content: end;
+  align-items: center;
+}
+.nav_ul {
+  padding-left: 50px;
+  font-size: 24px;
+  position: relative;
+}
+
+.asos_logo {
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: gabriola;
+  position: absolute;
+  left: 20px;
+}
+
+.nav_ul li {
+  padding-left: 50px;
+}
+
+.cart_count {
+  color: rgb(219, 26, 26);
+  padding-right: 20px;
+  font-size: 24px;
+  padding-top: 100px;
+}
+.cart {
+  cursor: pointer;
+}

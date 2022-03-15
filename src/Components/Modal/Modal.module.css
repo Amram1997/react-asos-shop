@@ -1,0 +1,32 @@
+.modal_div {
+  width: 350px;
+  min-height: 100%;
+  position: absolute;
+  right: 0;
+  background-color: rgba(150, 153, 156, 0.507);
+}
+.cart_header {
+  width: 350px;
+  height: 100px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  font-size: 34px;
+}
+
+.cart_header > p {
+  font-size: 18px;
+  padding-top: -10px;
+}
+.cart_image {
+  width: 200px;
+  height: 200px;
+}
+.item_div {
+  width: 300px;
+  height: 360px;
+  background-color: rgba(150, 153, 156, 0.507);
+  font-size: 16px;
+  color: #000;
+  margin-top: 25px;
+}
