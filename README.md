@@ -2,4 +2,4 @@
 
 ## Asos shop
 
-<img src="./Components/images/Screenshot_3.png" width="500px" height="400px"/>
+<img src="./src/Components/images/Screenshot_3.png" width="500px" height="400px"/>
